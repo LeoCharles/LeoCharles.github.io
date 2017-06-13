@@ -5,10 +5,10 @@ body {
     display: flex;
     justify-content: center;
 }
-
-// .container {
-//     margin-top: 0.66666667em;
-// }
+/* 1em = 15px */
+.container {
+    margin-top: .66666667em;
+}
 
 h1,
 strong,
@@ -27,7 +27,7 @@ dl {
 
 dl dt {
     font-weight: bold;
-    font-size: 1.04em;
+    font-size: 1.06666667em;
 }
 
 
@@ -39,11 +39,12 @@ header {
 
 .title p {
     margin-top: 0;
-    margin-bottom: 5px;
+    margin-bottom: .33333333em;
 }
 
 address {
     font-style: normal;
+    margin-right: 2.66666667em;;
 }
 
 .contact li span {
@@ -59,7 +60,7 @@ address {
 
 .content {
     display: flex;
-    margin-top: 0.66666667em;
+    margin-top: .66666667em;
 }
 
 .content > article > section {
@@ -70,19 +71,68 @@ h2 {
     font-size: 1.33333333em;
     padding-bottom: .33333333em;
     border-bottom: 1px solid black;
+    margin: 0;
 }
 
 
 /* end content */
 
 .circle {
+    display: inline-block;
     width: .53333333em;
     height: .53333333em;
     margin: 0 .66666667em;
     background: black;
     border-radius: 100%;
-    display: inline-block;
 }
+
+
+/* css for project */
+
+.project dl dt {
+    margin-bottom: .2em;
+}
+
+.project dl dd {
+    margin-left: .26666666em;
+    padding-left: .9em;
+    border-left: .06666667em solid black;
+}
+
+.project .circle {
+    margin-left: 0;
+}
+
+.project dl dd:first-child {
+     padding-top: .66666667em;
+}
+
+.project dl dd:first-child span {
+    display: inline-block;
+    width: 6em;
+    margin-left: 1em;
+    border-radius: .75em;
+    line-height: 1.5em;
+    font-size: .8em;
+    background-color: #E9ECFB;
+    color: #6679DF;
+    text-align: center;
+}
+
+.project dl dd:last-child {
+    padding-bottom: .66666667em;
+}
+
+.key-point {
+    display: inline-block;
+    margin: .33333333em 0 .6em;
+    background: #6679DF;
+    padding: .13333333em .33333333em;
+    font-size: .93333333em;
+    color: white;
+}
+
+/* end project */
 
 
 /* css for work */
@@ -108,54 +158,9 @@ h2 {
 /* end work */
 
 
-/* css for project */
-
-.project dl dt {
-    margin-bottom: .2em;
-}
-
-.project dl dd {
-    margin-left: .26666666em;
-    padding-left: .9em;
-    border-left: .06666667em solid black;
-}
-.project .circle {
-    margin-left: 0em;
-}
-.project dl dd:first-child {
-    margin-top: .66666667em;
-}
-.project dl dd:first-child span {
-    display: inline-block;
-    width: 6em;
-    margin-left: 1em;
-    border-radius: .75em;
-    line-height: 1.5em;
-    font-size: .8em;
-    background-color: #E9ECFB;
-    color: #6679DF;
-    text-align: center;
-}
-.project dl dd:last-child {
-    margin-bottom: .66666667em;
-}
-
-.key-point {
-    display: inline-block;
-    margin: .33333333em 0 .6em;
-    background: #6679DF;
-    padding: .13333333em .33333333em;
-    font-size: .93333333em;
-    color: white;
-}
-
-/* end project */
-
-
 .skill-item dd:before,
 .award-item li:before,
 .other-item li:before,
-.evaluate-item li:before,
 .project dl ul li:before {
     content: "√";
     display: inline-block;
