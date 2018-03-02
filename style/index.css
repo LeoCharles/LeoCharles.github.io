@@ -247,6 +247,7 @@ footer {
     }
     address {
         font-size: .94em;
+        margin-right: 0;
     }
 }
 
