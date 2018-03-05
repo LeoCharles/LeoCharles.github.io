@@ -132,7 +132,7 @@ h2 {
     color: white;
 }
 
-.label {
+.project dl .label {
     background-color: rgb(233, 236, 251);
     color: rgb(102, 121, 223);
     font-size: .8em;
