@@ -132,6 +132,18 @@ h2 {
     color: white;
 }
 
+.project dl .label {
+    background-color: rgb(233, 236, 251);
+    color: rgb(102, 121, 223);
+    font-size: .8em;
+    font-weight: normal;
+    text-align: center;
+    margin-left: 1em;
+    padding: 0 0.5em;
+    line-height: 1.5em;
+    border-radius: .75em;
+}
+
 /* end project */
 
 
