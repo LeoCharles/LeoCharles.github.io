@@ -8,9 +8,9 @@
 
 ### JavaScript
 
-+ [JS基础](https://github.com/LeoCharles/fe-note/blob/master/ECMAScript/JS%E5%9F%BA%E7%A1%80.md)
++ [JS基础](https://github.com/LeoCharles/fe-note/blob/master/JavaScript/JS%E5%9F%BA%E7%A1%80.md)
 
-+ [ES6基础](https://github.com/LeoCharles/fe-note/blob/master/ECMAScript/ES6%E5%9F%BA%E7%A1%80.md)
++ [ES6基础](https://github.com/LeoCharles/fe-note/blob/master/JavaScript/ES6%E5%9F%BA%E7%A1%80.md)
 
 ### Vue.js
   
