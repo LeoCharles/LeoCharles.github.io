@@ -1,4 +1,4 @@
-﻿# 刘丛的博客
+﻿# 我的博客
 
 ## 技术笔记
 
@@ -17,6 +17,10 @@
 ### Vue.js
   
 + [Vuex](https://github.com/LeoCharles/fe-note/blob/master/Vue/vuex.md)
+
+### 小程序
+
++ [微信小程序](https://github.com/LeoCharles/fe-note/blob/master/MP/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F.md)
 
 ### Js库
 
