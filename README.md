@@ -18,7 +18,7 @@
 
 ### Js库
 
-+ [自定义工具函数](https://github.com/LeoCharles/fe-note/blob/master/Tool/utils.js)
++ [自定义工具函数](https://github.com/LeoCharles/fe-note/blob/master/Lib/utils.js)
 
 ### 杂项
 
