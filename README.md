@@ -8,9 +8,11 @@
 
 ### JavaScript
 
-+ [JS基础](https://github.com/LeoCharles/fe-note/blob/master/JavaScript/JS%E5%9F%BA%E7%A1%80.md)
++ [JS基础](https://github.com/LeoCharles/fe-note/blob/master/JavaScript/JS基础.md)
 
-+ [ES6基础](https://github.com/LeoCharles/fe-note/blob/master/JavaScript/ES6%E5%9F%BA%E7%A1%80.md)
++ [Browser](https://github.com/LeoCharles/fe-note/blob/master/JavaScript/Browser.md)
+
++ [ES6基础](https://github.com/LeoCharles/fe-note/blob/master/JavaScript/ES6基础.md)
 
 + [Promise](https://github.com/LeoCharles/fe-note/blob/master/JavaScript/Promise.md)
 
@@ -20,7 +22,7 @@
 
 ### 小程序
 
-+ [微信小程序](https://github.com/LeoCharles/fe-note/blob/master/MP/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F.md)
++ [微信小程序](https://github.com/LeoCharles/fe-note/blob/master/MP/微信小程序.md)
 
 ### Js库
 
@@ -30,9 +32,9 @@
 
 + [JWT](https://github.com/LeoCharles/fe-note/blob/master/Notes/JWT.md)
 
-+ [排序算法](https://github.com/LeoCharles/fe-note/blob/master/Notes/%E6%8E%92%E5%BA%8F.md)
++ [排序算法](https://github.com/LeoCharles/fe-note/blob/master/Notes/排序.md)
 
-+ [Vue项目移动页面真机调试](https://github.com/LeoCharles/fe-note/blob/master/Notes/Vue%E9%A1%B9%E7%9B%AE%E7%A7%BB%E5%8A%A8%E9%A1%B5%E9%9D%A2%E7%9C%9F%E6%9C%BA%E8%B0%83%E8%AF%95.md)
++ [Vue项目移动页面真机调试](https://github.com/LeoCharles/fe-note/blob/master/Notes/Vue项目移动页面真机调试.md)
 
 ## 实战项目
 
