@@ -1,42 +1,8 @@
 ﻿# 我的博客
 
-## 技术笔记
+## 学习笔记
 
-### HTML
-
-### CSS
-
-### JavaScript
-
-+ [JS基础](https://github.com/LeoCharles/fe-note/blob/master/JavaScript/JS基础.md)
-
-+ [Browser](https://github.com/LeoCharles/fe-note/blob/master/JavaScript/Browser.md)
-
-+ [ES6基础](https://github.com/LeoCharles/fe-note/blob/master/JavaScript/ES6基础.md)
-
-+ [Promise](https://github.com/LeoCharles/fe-note/blob/master/JavaScript/Promise.md)
-
-### Vue.js
-  
-+ [Vuex](https://github.com/LeoCharles/fe-note/blob/master/Vue/vuex.md)
-
-### 小程序
-
-+ [微信小程序](https://github.com/LeoCharles/fe-note/blob/master/MP/微信小程序.md)
-
-### Js库
-
-+ [自定义工具函数](https://github.com/LeoCharles/fe-note/blob/master/Lib/utils.js)
-
-### 杂项
-
-+ [网络](https://github.com/LeoCharles/fe-note/blob/master/Notes/网络.md)
-
-+ [JWT](https://github.com/LeoCharles/fe-note/blob/master/Notes/JWT.md)
-
-+ [排序算法](https://github.com/LeoCharles/fe-note/blob/master/Notes/排序.md)
-
-+ [Vue项目移动页面真机调试](https://github.com/LeoCharles/fe-note/blob/master/Notes/Vue项目移动页面真机调试.md)
++ 学习笔记：[学习笔记](https://github.com/LeoCharles/fe-note)
 
 ## 实战项目
 
